@@ -1,4 +1,7 @@
 # NLP Project: Sentiment Analysis of Amazon Alexa Reviews
+<div align="center">
+  <img src="https://medias.netatmo.com/content/bfc02f42-b5ee-4ff6-a813-d7460cc7c288.jpg/:/rs=w:1200,h:630,ft:cover,i:true/fm=f:jpg" alt="Amazon Alexa">
+</div>
 
 ### Overview:
 Our NLP project focuses on the sentiment analysis of customer reviews about Amazon Alexa. The goal is to build an artificial intelligence (AI) model to predict sentiment levels from customer reviews of Amazon Echo products. By automating the sentiment analysis process, we want to provide valuable information on customer satisfaction.
